@@ -28,11 +28,11 @@ After generating the executable file strass, run it with the following commands 
 
 ## Performance
 
-![Efficiency](E:\cuda_code\pro\Efficiency.png)
+![Efficiency](https://github.com/XiaomingFun233/strassen-cuda/blob/main/test%20report/Efficiency.png)
 
 This operational efficiency includes the CPU execution activity time
 
-![kernel](E:\cuda_code\pro\kernel.png)
+![kernel](https://github.com/XiaomingFun233/strassen-cuda/blob/main/test%20report/kernel.png)
 
 This image only shows how efficient the kernel performs
 
